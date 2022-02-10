@@ -21,3 +21,7 @@ __Melhoria 1__, _melhoria 2_
     3. CSS diferente para grupos de cliente
 3. Integração com outros pagamentos
 4. Sistema de bônus primeira compra
+
+### Imagem local
+
+![Logo do Python](D:\_DOCUMENTOS\_THIAGO\_ACADÊMICO\_GRADUAÇÃO\_UNIFACISA-SISTEMAS_DE_INFORMAÇÃO\_CURSOS\_Git_GitHub\python.png)
