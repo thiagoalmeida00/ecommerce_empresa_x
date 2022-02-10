@@ -25,3 +25,7 @@ __Melhoria 1__, _melhoria 2_
 ### Imagem externa
 
 ![Logo do Python](https://images.squarespace-cdn.com/content/556c9bf4e4b0de57cb590a0f/1433275776438-8AOXJ85ZC7Q3ASU01PFV/python.png?content-type=image%2Fpng)
+
+## Links interessantes:
+
+[Google](https://www.google.com)
